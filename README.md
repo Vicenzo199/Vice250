@@ -1,4 +1,4 @@
 # Vice250
-demo-repo
+landing page
 
 semana
